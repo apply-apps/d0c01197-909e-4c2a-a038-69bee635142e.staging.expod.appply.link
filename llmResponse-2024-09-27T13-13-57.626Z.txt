@@ -1,3 +1,4 @@
+```js
 // App.js
 import React from 'react';
 import { StyleSheet, Text, View, FlatList, Image, TouchableOpacity, useColorScheme } from 'react-native';
@@ -152,3 +153,4 @@ const styles = StyleSheet.create({
 
 export default App;
 // End of App.js
+```
